@@ -1,2 +1,2 @@
 # wise
-apple is red
+pple is red
